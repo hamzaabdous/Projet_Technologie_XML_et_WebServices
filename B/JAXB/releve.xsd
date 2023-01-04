@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Operations" type="operations"/>
+
+  <xs:element name="operation" type="operation"/>
+
+  <xs:element name="releve" type="releve"/>
+
+  <xs:complexType name="releve">
+    <xs:sequence>
+      <xs:element name="dateReleve" type="xs:dateTime" minOccurs="0"/>
+      <xs:element name="sold" type="xs:float"/>
+      <xs:element name="operations" type="operations" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="RIB" type="xs:int" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="operations">
+    <xs:sequence>
+      <xs:element ref="operation" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="dateDebut" type="xs:dateTime"/>
+  </xs:complexType>
+
+  <xs:complexType name="operation">
+    <xs:sequence/>
+    <xs:attribute name="type" type="xs:string"/>
+    <xs:attribute name="date" type="xs:dateTime"/>
+    <xs:attribute name="montant" type="xs:string"/>
+    <xs:attribute name="description" type="xs:string"/>
+  </xs:complexType>
+</xs:schema>
+
