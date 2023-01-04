@@ -22,7 +22,7 @@ public class JaxBSerialisationXML {
         } catch (JAXBException e) {
             throw new RuntimeException(e);
         }
-        System.out.println("Hello world!");
+
     }
 
 }
