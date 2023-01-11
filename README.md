@@ -35,3 +35,16 @@ B)
 <img width="1440" alt="Capture d’écran 2023-01-04 à 11 42 11 PM" src="https://user-images.githubusercontent.com/58442199/210663824-bf97ba6b-3082-41b1-84f3-63eb34188472.png">
 
 <img width="1440" alt="Capture d’écran 2023-01-04 à 11 42 46 PM" src="https://user-images.githubusercontent.com/58442199/210663880-8da04cf9-869f-4887-b12b-d44c766bbfe8.png">
+
+C)
+
+1)
+
+<img width="1440" alt="Capture d’écran 2023-01-11 à 8 27 57 PM" src="https://user-images.githubusercontent.com/58442199/211899991-8f0d52f0-0dc9-4510-ba20-1b4c2f96382e.png">
+
+
+
+
+
+
+
