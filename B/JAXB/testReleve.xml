@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <releve RIB="1111111">
-    <dateReleve>2023-01-04T22:10:15.903+01:00</dateReleve>
-    <sold>2721.2224</sold>
-    <operations dateDebut="2023-01-04T22:10:15.903+01:00">
-        <operation type="test" date="2023-01-04T22:10:15.903+01:00" montant="12233" description="cccccc"/>
-        <operation type="test1" date="2023-01-04T22:10:15.903+01:00" montant="12233" description="cccccc"/>
+    <dateReleve>2023-01-04T23:40:52.628+01:00</dateReleve>
+    <sold>8537.824</sold>
+    <operations dateDebut="2023-01-04T23:40:52.628+01:00">
+        <operation type="test" date="2023-01-04T23:40:52.628+01:00" montant="12233" description="cccccc"/>
+        <operation type="test1" date="2023-01-04T23:40:52.628+01:00" montant="12233" description="cccccc"/>
     </operations>
 </releve>
